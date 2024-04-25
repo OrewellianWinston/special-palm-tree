@@ -1,0 +1,2 @@
+As the first project, my plans are simple:
+1. Find and add recipes for pizza, boiled eggs, pasta carbonara then create relationships between pages and lastly coherently organize the folder structure. Readme will be changed in the meantime.
